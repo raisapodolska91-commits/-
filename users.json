@@ -1,0 +1,4 @@
+[
+  {"email": "admin@motodrive.ua", "password": "root", "role": "admin"},
+  {"email": "user@gmail.com", "password": "111", "role": "customer"}
+]
